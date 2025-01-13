@@ -1,7 +1,7 @@
-- Hi, I’m @DevMamoon
-- I’m interested in coding and exploring the industry.
-- I’m currently learning HTML/JS/CSS
-- How to reach me at @Mamoon_A_ on twitter
+- salam it's mamoon 🤝
+- i moved onto graphic designing, video effects and cybersecurity 🎨 📹 💻
+- kinda quit coding
+- muslim 🕋☝️
 
 <!---
 DevMamoon/DevMamoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
