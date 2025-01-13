@@ -1,6 +1,6 @@
 - salam it's mamoon 🤝
 - i moved onto graphic designing, video effects and cybersecurity 🎨 📹 💻
-- kinda quit coding
+- kinda quit coding ⁉️
 - muslim 🕋☝️
 
 <!---
