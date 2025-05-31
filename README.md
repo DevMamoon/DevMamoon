@@ -1,6 +1,6 @@
 - im mamoon 🤝
 - graphic designing, video effects and cybersecurity 🎨 📹 💻
-- in and out of coding
+- in and out of coding 👨‍💻
 
 <!---
 DevMamoon/DevMamoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
