@@ -1,7 +1,6 @@
-- salam it's mamoon 🤝
-- i moved onto graphic designing, video effects and cybersecurity 🎨 📹 💻
-- kinda quit coding ⁉️
-- muslim 🕋☝️
+- im mamoon 🤝
+- graphic designing, video effects and cybersecurity 🎨 📹 💻
+- in and out of coding
 
 <!---
 DevMamoon/DevMamoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
